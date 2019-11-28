@@ -20,7 +20,7 @@
 			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
-	 properties>
+	 <properties>
           <sonar.projectKey>my-farm1</sonar.projectKey>
 	  <sonar.organization>vasanth</sonar.organization>
           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
