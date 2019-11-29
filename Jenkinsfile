@@ -23,7 +23,7 @@ pipeline {
         }
        stage("build docker image for QA2"){
              steps{
-                 sh "docker build -t my-farm:v1 ."
+                 sh "docker build -t my-farm1:v2 ."
             }
 
         }
