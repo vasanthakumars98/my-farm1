@@ -12,8 +12,8 @@ request.setAttribute("pageHeading", "MK Pets!");
   String visitor = ++counter + " Visitors";
 %>
 <div class="center">
-  <p>Welcome to my store!</p>
+  <p>Thanks for visiting. keep in touch!</p>
 </div>
 
-<p>Contact me at mkpets@gmail.com</p>
+<p>Contact me at vasanth@gmail.com</p>
 <p>The number of visitors is <%= visitor %></p>
