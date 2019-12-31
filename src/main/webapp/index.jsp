@@ -15,5 +15,5 @@ request.setAttribute("pageHeading", "MK Pets!");
   <p>Welcome to my store!</p>
 </div>
 
-<p>Contact me at mkpets@gmail.com</p>
+<p>Contact me at svk@gmail.com</p>
 <p>The number of visitors is <%= visitor %></p>
